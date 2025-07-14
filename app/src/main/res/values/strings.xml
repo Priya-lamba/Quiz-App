@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="a">Is the sky blue?</string>
+    <string name="b">Is fire cold?</string>
+    <string name="c">Is water wet?</string>
+    <string name="d">Can humans fly naturally?</string>
+    <string name="e">Is 2+2 equal to 5?</string>
+    <string name="f">Is Earth round?</string>
+
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="next_text">Next</string>
+    <string name="prev_text">Previous</string>
+</resources>
