@@ -22,6 +22,13 @@ A simple and interactive Quiz App built using **Android Studio** and **Kotlin**.
 
 
 ---
+
+## 🔗 Download APK
+
+[⬇️ Download app-release.apk](https://github.com/Priya-lamba/Quiz-App/releases/download/v1.0/app-debug.apk)
+
+
+   
 ## 🛠️ Built With
 
 - [Android Studio](https://developer.android.com/studio)
